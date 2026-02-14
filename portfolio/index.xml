@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Data Science Portfolio</title>
+    <title>Portfolios on Evan Welch Data Science Portfolio</title>
     <link>https://lobstergames.github.io/portfolio/</link>
-    <description>Recent content in Portfolios on Data Science Portfolio</description>
+    <description>Recent content in Portfolios on Evan Welch Data Science Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     <atom:link href="https://lobstergames.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Name of the work 2</title>
+      <title>Titanic Exploratory Data Analysis</title>
+      <link>https://lobstergames.github.io/portfolio/titaniceda/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/titaniceda/</guid>
+      <description>&lt;p&gt;Compared various variables to survival outcome for passengers aboard the Titanic by creating graphics in R&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/jamesleslie/titanic-cleaned-data?select=train_clean.csv&#34;&gt;dataset&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Harford Chapter OA Website</title>
+      <link>https://lobstergames.github.io/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Created a basic website to assist my Order of the Arrow Chapter&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://harfordchapter.org&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://github.com/LobsterGames/harfordchapter-site&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;github repository&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Comparing Greenhouse Emission Levels by State</title>
       <link>https://lobstergames.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/work2/</guid>
-      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Name of the work 3</title>
-      <link>https://lobstergames.github.io/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>https://lobstergames.github.io/portfolio/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Utilizing data from the EPA website the compare CO2, NOx, and CH4 emissions by state&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://public.tableau.com/app/profile/evan.welch8312/viz/us_egrid_emissions/Evaluation&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;view in tableau public&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.kaggle.com/datasets/evanjosephwelch/us-greenhouse-emissions-by-state-nox-co2-ch4&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;dataset&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.epa.gov/egrid/data-explorer&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;source&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Item without image</title>
@@ -41,6 +48,13 @@
       <link>https://lobstergames.github.io/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/work6/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Name of the work 3</title>
+      <link>https://lobstergames.github.io/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
@@ -73,17 +87,17 @@
     </item>
     <item>
       <title>Item with image</title>
+      <link>https://lobstergames.github.io/portfolio/copyofwork11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/copyofwork11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Item with image</title>
       <link>https://lobstergames.github.io/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Name of the work 1</title>
-      <link>https://lobstergames.github.io/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      <guid>https://lobstergames.github.io/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
