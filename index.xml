@@ -37,18 +37,18 @@
       <description>&lt;p&gt;Created games in code.org javascript from middle school up until freshman year.&#xA;Linked below is a website with most of them. Two of them are embedded and can be viewed by clicking the project tile.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://codeprojects.org/projects/weblab/ztMeGzZpdzfWW8hROwiJK3IkllzTJ7dPmTA6n8-MGmk&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Coming Soon - Excel Housing Dashboard</title>
+      <title>Excel Housing Dashboard</title>
       <link>https://lobstergames.github.io/portfolio/excel-housing/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/excel-housing/</guid>
-      <description></description>
+      <description>&lt;p&gt;Used data from &lt;a href=&#34;https://www.kaggle.com/datasets/camnugent/california-housing-prices&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;this dataset&lt;/a&gt; on Kaggle to analyze California housing prices&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Coming Soon - Excel GME Dashboard</title>
+      <title>Excel GME Dashboard</title>
       <link>https://lobstergames.github.io/portfolio/excel-gme/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/excel-gme/</guid>
-      <description></description>
+      <description>&lt;p&gt;Used stock data from yahoo finance to analyze the Gamestop stock&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello R Markdown</title>
