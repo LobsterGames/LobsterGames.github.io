@@ -1,0 +1,62 @@
+---
+title: "Thompson Sampling"
+output: html_document
+---
+
+<!--more-->
+
+
+```{r setup, include = FALSE}
+
+# install.packages("tidyverse")
+library(tidyverse)
+
+```
+
+This will outline the creation of a Thompson Sampling algorithm
+
+> - Scenario: We have option a with an unknown p = 0.8 and option b with an unknown p = 0.3
+> - We will start with two uniform density beta distributions, and declare the number of iterations
+
+```{r}
+a_alpha <- 1
+
+a_beta <- 1
+
+b_alpha <- 1
+
+b_beta <- 1
+
+i <- 100 #number of times the trial is run
+
+```
+
+Then we can create a function to model Thompson Sampling
+
+> - First, it will pull from each beta distribution
+> - Then it will determine which value is greater, and pull from that dataset (in this example, it is modeled as a binomial distribution)
+> - Then, it will update the corresponding beta distribution depending on if a success or fail was observed, and print out the selection
+> - Ideally, the model will consistently choose the option with a higher chance of success after a short amount of time
+  
+```{r}
+
+  for(x in 1:i){
+  t_a <- rbeta(1, a_alpha, a_beta) #pulls from each beta distribution
+  t_b <- rbeta(1, b_alpha, b_beta)
+  
+  if(t_a > t_b){ #If a returns a greater value, a sample is taken from a
+    sample_a <- rbinom(1, 1, 0.8) #This represents the distribution a. In reality we wouldn't know p = 0.8
+    a_alpha <- a_alpha + sample_a
+    a_beta <- a_beta + (1-sample_a)
+    print("Chose A")
+    
+  } else {#If b returns a greater value, a sample is taken from b
+    sample_b <- rbinom(1,1,0.3) #This represents the distribution b. In reality we wouldn't know p = 0.3
+    b_alpha <- b_alpha + sample_b
+    b_beta <- b_beta + (1-sample_b)
+    print("Chose B")
+  }
+  }
+
+
+```
