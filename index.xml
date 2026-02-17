@@ -13,35 +13,35 @@
       <link>https://lobstergames.github.io/portfolio/titaniceda/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/titaniceda/</guid>
-      <description>&lt;p&gt;Compared various variables to survival outcome for passengers aboard the Titanic by creating graphics in R&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/jamesleslie/titanic-cleaned-data?select=train_clean.csv&#34;&gt;dataset&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Compared various variables to survival outcome for passengers aboard the Titanic by creating graphics in R.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Through this project, I learned about creating graphics using R (tidyverse) for EDA.&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/jamesleslie/titanic-cleaned-data?select=train_clean.csv&#34;&gt;dataset&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Harford Chapter OA Website</title>
       <link>https://lobstergames.github.io/portfolio/harford-site/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/harford-site/</guid>
-      <description>&lt;p&gt;Created a basic website to assist my Order of the Arrow (OA) Chapter&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://harfordchapter.org&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://github.com/LobsterGames/harfordchapter-site&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;github repository&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Created a basic website to assist my Order of the Arrow (OA) Chapter.&lt;/p&gt;&#xA;&lt;p&gt;Through this project, I learned about HTML and CSS, and gained exposure to Javascript for web dev.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://harfordchapter.org&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://github.com/LobsterGames/harfordchapter-site&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;github repository&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Eagle Scout Project</title>
+      <link>https://lobstergames.github.io/portfolio/eagle/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/eagle/</guid>
+      <description>&lt;p&gt;Created a 3 bin compost system for the Harford Glen Environmental Education Center.&lt;/p&gt;&#xA;&lt;p&gt;Through this project, I learned about having effective organization, communication, and leadership skills, as well as budgeting, logistics, construction, and CAD modeling.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/photo.php?fbid=775840101439958&amp;amp;set=a.244452637912043&amp;amp;type=3&amp;amp;ref=embed_post&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;facebook post&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Comparing Greenhouse Emission Levels by State</title>
       <link>https://lobstergames.github.io/portfolio/tableau/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       <guid>https://lobstergames.github.io/portfolio/tableau/</guid>
-      <description>&lt;p&gt;Utilizing data from the EPA website the compare CO2, NOx, and CH4 emissions by state&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://public.tableau.com/app/profile/evan.welch8312/viz/us_egrid_emissions/Evaluation&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;view in tableau public&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.kaggle.com/datasets/evanjosephwelch/us-greenhouse-emissions-by-state-nox-co2-ch4&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;dataset&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.epa.gov/egrid/data-explorer&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;source&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Utilizing data from the EPA website the compare CO2, NOx, and CH4 emissions by state.&lt;/p&gt;&#xA;&lt;p&gt;Through this project, I learned about using Tableau to manipulate data and use it to create powerful interactive graphs.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://public.tableau.com/app/profile/evan.welch8312/viz/us_egrid_emissions/Evaluation&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;view in tableau public&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.kaggle.com/datasets/evanjosephwelch/us-greenhouse-emissions-by-state-nox-co2-ch4&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;dataset&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;a href=&#34;https://www.epa.gov/egrid/data-explorer&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;source&lt;/a&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Code.org Js Games</title>
-      <link>https://lobstergames.github.io/portfolio/code/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      <guid>https://lobstergames.github.io/portfolio/code/</guid>
-      <description>&lt;p&gt;Created games in code.org javascript from middle school up until freshman year.&#xA;Linked below is a website with most of them. Two of them are embedded and can be viewed by clicking the project tile.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://codeprojects.org/projects/weblab/ztMeGzZpdzfWW8hROwiJK3IkllzTJ7dPmTA6n8-MGmk&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Excel Housing Dashboard</title>
-      <link>https://lobstergames.github.io/portfolio/excel-housing/</link>
+      <title>Excel GME Dashboard</title>
+      <link>https://lobstergames.github.io/portfolio/excel-gme/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>https://lobstergames.github.io/portfolio/excel-housing/</guid>
-      <description>&lt;p&gt;Used data from &lt;a href=&#34;https://www.kaggle.com/datasets/camnugent/california-housing-prices&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;this dataset&lt;/a&gt; on Kaggle to analyze California housing prices&lt;/p&gt;</description>
+      <guid>https://lobstergames.github.io/portfolio/excel-gme/</guid>
+      <description>&lt;p&gt;Used stock data from yahoo finance to analyze the Gamestop stock.&lt;/p&gt;&#xA;&lt;p&gt;Through this project, I learned about creating powerful graphics and forecasts in Excel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eagle Project Post</title>
@@ -51,11 +51,25 @@
       <description></description>
     </item>
     <item>
-      <title>Excel GME Dashboard</title>
-      <link>https://lobstergames.github.io/portfolio/excel-gme/</link>
+      <title>Excel Housing Dashboard</title>
+      <link>https://lobstergames.github.io/portfolio/excel-housing/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>https://lobstergames.github.io/portfolio/excel-gme/</guid>
-      <description>&lt;p&gt;Used stock data from yahoo finance to analyze the Gamestop stock&lt;/p&gt;</description>
+      <guid>https://lobstergames.github.io/portfolio/excel-housing/</guid>
+      <description>&lt;p&gt;Used data from &lt;a href=&#34;https://www.kaggle.com/datasets/camnugent/california-housing-prices&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;this dataset&lt;/a&gt; on Kaggle to analyze California housing prices.&lt;/p&gt;&#xA;&lt;p&gt;Through this project I learned about finding summary statistics from data and creating map based 3d graphics using coordinates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code.org Js Games</title>
+      <link>https://lobstergames.github.io/portfolio/code/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>https://lobstergames.github.io/portfolio/code/</guid>
+      <description>&lt;p&gt;Created games in code.org Javascript from middle school up until freshman year.&#xA;Linked below is a website with most of them. Two of them are embedded and can be viewed by clicking the project tile.&lt;/p&gt;&#xA;&lt;p&gt;Through this project I learned about using Javascript for basic game development.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://codeprojects.org/projects/weblab/ztMeGzZpdzfWW8hROwiJK3IkllzTJ7dPmTA6n8-MGmk&#34; target=&#34;_blank&#34; &#xD;&#xA;  rel=&#34;noopener noreferrer&#34;&gt;website&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstergames.github.io/test/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstergames.github.io/test/testing/</guid>
+      <description>&lt;p&gt;This will outline the creation of a Thompson Sampling algorithm&lt;/p&gt;&#xD;&#xA;&lt;blockquote&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Scenario: We have option a with an unknown p = 0.8 and option b with an unknown p = 0.3&lt;/li&gt;&#xD;&#xA;&lt;li&gt;We will start with two uniform density beta distributions, and declare the number of iterations&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;/blockquote&gt;&#xD;&#xA;&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;a_alpha &amp;lt;- 1&#xD;&#xA;&#xD;&#xA;a_beta &amp;lt;- 1&#xD;&#xA;&#xD;&#xA;b_alpha &amp;lt;- 1&#xD;&#xA;&#xD;&#xA;b_beta &amp;lt;- 1&#xD;&#xA;&#xD;&#xA;i &amp;lt;- 100 #number of times the trial is run&lt;/code&gt;&lt;/pre&gt;&#xD;&#xA;&lt;p&gt;Then we can create a function to model Thompson Sampling&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thompson Sampling</title>

@@ -7,7 +7,10 @@ title: Titanic Exploratory Data Analysis
 weight: 1
 ---
 
-Compared various variables to survival outcome for passengers aboard the Titanic by creating graphics in R
+Compared various variables to survival outcome for passengers aboard the Titanic by creating graphics in R.
+
+Through this project, I learned about creating graphics using R (tidyverse) for EDA.
+
 
 - [dataset](https://www.kaggle.com/jamesleslie/titanic-cleaned-data?select=train_clean.csv)
 
